@@ -1,0 +1,14 @@
+RUNESTONE GAME SOURCE CODE ON PYTHON/TMX FILES. 
+TO RUN THE GAME PLEASE OPEN "Runestone.py" AND RUN IT VIA ANY SOURCE CODE EDITOR
+LIBRARY PACKAGES INSTALLED TO RUN THE GAME:
+1. PyGame
+2. Pillow
+3. PyTMX
+4. Moviepy.editor
+5. MOVEMENT - ARROWS
+6. ATTACK Z
+
+
+
+UPDATED: 19.04.2025
+In order to alter game's map, run map.tmx in TILED. Every change will appear on the game.
